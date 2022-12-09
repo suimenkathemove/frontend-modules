@@ -1,0 +1,1 @@
+# @suimenkathemove/eslint-config
