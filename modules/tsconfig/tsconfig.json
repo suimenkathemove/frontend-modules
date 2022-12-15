@@ -1,4 +1,5 @@
 {
+  "extends": "@suimenkathemove/tsconfig",
   "compilerOptions": {
     "target": "ESNext"
   }
