@@ -1,7 +1,7 @@
 {
   "name": "@suimenkathemove/frontend-tsconfig",
   "version": "0.1.0",
-  "devDependencies": {
+  "dependencies": {
     "@suimenkathemove/tsconfig": "^0.1.9"
   }
 }
