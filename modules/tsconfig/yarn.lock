@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@suimenkathemove/tsconfig@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@suimenkathemove/tsconfig/-/tsconfig-0.1.9.tgz#efd4189b67ca345b9cef48cb57c279230070c587"
-  integrity sha512-6uUAJV5fkp6ffumHbWZ1DgojGv+gBLn/WIV9EjhF/vFs0ahG0Nb5EgA7zIht49MEcE5iirDUlsOmXRCv8psFaQ==
+"@suimenkathemove/tsconfig@^0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@suimenkathemove/tsconfig/-/tsconfig-0.1.11.tgz#690e485afddfe9f606f32e2ad30b535d925ea9c9"
+  integrity sha512-bLUUlYyealShN69siSPv0YFPCa+ZvZHfiZepUCx03dkgtcc2hht+eQD7iX1THDuCEOjENwl3roXiYtyYyNht7Q==

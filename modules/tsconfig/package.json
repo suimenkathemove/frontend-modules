@@ -5,6 +5,6 @@
     "tsconfig.json"
   ],
   "dependencies": {
-    "@suimenkathemove/tsconfig": "^0.1.9"
+    "@suimenkathemove/tsconfig": "^0.1.11"
   }
 }
