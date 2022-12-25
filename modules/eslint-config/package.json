@@ -1,0 +1,12 @@
+{
+  "name": "@suimenkathemove/frontend-eslint-config",
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "@suimenkathemove/eslint-config": "^0.1.4"
+  }
+}

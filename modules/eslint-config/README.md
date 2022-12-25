@@ -1,1 +1,1 @@
-# @suimenkathemove/eslint-config
+# @suimenkathemove/frontend-eslint-config
