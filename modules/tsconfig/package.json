@@ -1,11 +1,11 @@
 {
   "name": "@suimenkathemove/frontend-tsconfig",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "license": "MIT",
   "files": [
     "tsconfig.json"
   ],
   "dependencies": {
-    "@suimenkathemove/tsconfig": "^0.1.11"
+    "@suimenkathemove/tsconfig": "^0.1.12"
   }
 }
