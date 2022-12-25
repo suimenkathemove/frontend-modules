@@ -1,5 +1,12 @@
 module.exports = {
-  extends: ["@suimenkathemove/eslint-config"],
+  extends: [
+    "@suimenkathemove/eslint-config",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:testing-library/react",
+    "plugin:jest-dom/recommended",
+  ],
   env: {
     browser: true,
   },
@@ -9,13 +16,6 @@ module.exports = {
     },
   },
   plugins: ["react", "react-hooks", "jsx-a11y", "testing-library", "jest-dom"],
-  extends: [
-    "plugin:react/recommended",
-    "plugin:react-hooks/recommended",
-    "plugin:jsx-a11y/recommended",
-    "plugin:testing-library/react",
-    "plugin:jest-dom/recommended",
-  ],
   rules: {
     "react/display-name": "off",
     "react/react-in-jsx-scope": "off",
